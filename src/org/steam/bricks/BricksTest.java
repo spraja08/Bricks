@@ -1,4 +1,4 @@
-package com.knowesis.sift.bricks;
+package org.steam.bricks;
 
 import static org.junit.jupiter.api.Assertions.*;
 

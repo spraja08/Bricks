@@ -1,4 +1,4 @@
-package com.knowesis.sift.bricks;
+package org.steam.bricks;
 
 import java.util.ArrayList;
 import java.util.Arrays;
